@@ -1,10 +1,8 @@
 # Web-application-security-awareness
 
-**Security Fundementals**
+* **Application Security Concepts**
 
-* Application Security Concepts
-
-     * **LeastPrivileges :** When previleges are loosely assigned .I.e; when users or processes are provided more accesses than they required to complete the action. 
+* **LeastPrivileges :** When previleges are loosely assigned .I.e; when users or processes are provided more accesses than they required to complete the action. 
      
 	 * **Rule:** User ,application and system functions should run with the least amount of privileges possible to complete their role.
 	             "DENY BY DEFAULT" , Access only case by case
