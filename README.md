@@ -1,2 +1,5 @@
 # security-awareness
-This project is to archive my understanding common security issues
+
+**Security Fundementals**
+
+* Application Security Concepts
