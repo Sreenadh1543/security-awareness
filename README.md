@@ -10,4 +10,11 @@
 	 * **Example:** A web application which only makes read operations are assigned with write access so an attacker can levarage this to drop tables by a potential existing weakness through sql injection
 	 
 	 * **Summary:** Implementing least privileges will not stop exploiting security weaknesses but just makes it harder for an attacker to exploit the weakness
+
+* **Secure by Default :** Default settings available with in the application should be most secured .
+
+     * **Example :** An application enforces an vauge password restriction for user onboarding and a simple bruteforce attack can break the system; in such cases if client side validations are bi passed and if at server side this data
+     
+     * Design applications securely from the start and components should use Least Privileges .
+     * "Defence in Depth" layered defence mechanisms both application and infrastructure.
      
