@@ -26,6 +26,9 @@
 	* Presence of firewalls and segregating the application serves presence to zones will be a part of this idea.
 	
 	
+* **Robust Error Checking:** Stack traces should not be exposed so the attacker can uderstand the underlying frameworks and finetune the attempts 
+ 
+     * Error handling should be robust and crisp ; stack traces should be logged at the server so the administrator will do the debugging for future improvements.
 	
 	
 	
